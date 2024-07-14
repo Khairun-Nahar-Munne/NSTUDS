@@ -1,0 +1,48 @@
+.book {
+    padding: 100px 100px;
+
+    margin: 20px 200px;
+    box-shadow: 100px;
+
+    border-radius: 20px;
+
+    background-color: rgba(211, 46, 13, 0.093);
+
+    color: black;
+}
+
+
+
+.book h2 {
+    padding: 10px 0px;
+
+    margin: 20px 0px;
+    box-shadow: 100px;
+
+    border-radius: 50px;
+
+    background-color: rgba(211, 46, 13, 0.093);
+    text-align: center;
+    align-items: center;
+}
+
+.book ul {
+    padding-left: 80px;
+}
+
+.book a {
+    color: rgb(72, 4, 4);
+    text-decoration: none;
+
+}
+
+.book a:hover {
+    color: rgb(220, 141, 99);
+}
+.resource-list-item{
+    list-style: none;
+    font-size: 20px;
+    align-items: center;
+    padding-left: 340px;
+}
+

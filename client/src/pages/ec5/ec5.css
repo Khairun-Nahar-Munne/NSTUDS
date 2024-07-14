@@ -1,0 +1,44 @@
+.ec5 {
+    padding: 100px 100px;
+
+    margin: 20px 200px;
+    box-shadow: 100px;
+
+    border-radius: 20px;
+
+    background-color: rgba(211, 46, 13, 0.093);
+
+    color: black;
+}
+
+.ec5 img {
+    height: 400px;
+    border-radius: 10px;
+    padding-left: 30px;
+    padding-top: 5px;
+
+}
+
+.ec5 h2 {
+    padding: 5px 0px;
+
+    margin: 20px 0px;
+    box-shadow: 50px;
+
+    border-radius: 50px;
+
+    background-color: rgba(211, 46, 13, 0.093);
+    text-align: center;
+    align-items: center;
+
+
+}
+
+.ec5 p {
+    padding: 10px 0px;
+
+    margin: 20px 0px;
+    box-shadow: 100px;
+    text-align: center;
+    align-items: center;
+}

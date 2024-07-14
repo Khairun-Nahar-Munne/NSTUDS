@@ -1,0 +1,66 @@
+.login {
+  height: calc(100vh - 50px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.595),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url("Noakhali.jpg");
+  background-size: cover;
+}
+
+.loginTitle {
+  font-size: 65px;
+}
+
+.loginForm {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.loginForm>label {
+  margin: 10px 0;
+}
+
+.loginInput {
+  padding: 15px;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+}
+
+.loginInput:focus {
+  outline: none;
+}
+
+.loginButton {
+  margin-top: 20px;
+  cursor: pointer;
+  background-color: rgb(196, 28, 28);
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.loginButton:disabled {
+  cursor: not-allowed;
+  background-color: rgb(187, 220, 182);
+}
+
+.loginRegisterButton {
+  position: absolute;
+  top: 70px;
+  right: 20px;
+  background-color:  rgb(36, 168, 15);
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  color: white;
+  border-radius: 10px;
+}

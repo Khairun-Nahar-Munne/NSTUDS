@@ -1,0 +1,62 @@
+.contact-write {
+  font-family: "Varela Round", sans-serif;
+
+  margin: 0px;
+  padding: 150px;
+
+}
+
+.contact-write-title {
+  font-size: 18px;
+
+  align-items: center;
+}
+
+.contact-write-body {
+  font-size: 10px;
+  background-color: rgba(162, 11, 11, 0.89);
+  height: 300px;
+  width: 350px;
+  margin: 20px;
+  margin-left: 450px;
+  padding: 10px;
+  padding-left: 100px;
+  border-radius: 15px;
+  color: #f4f4f4;
+  align-items: center;
+
+}
+
+.btn-outline-primary:hover {
+  color: #f5ebeb;
+  background-color: #080d19;
+  border-color: #070a0e;
+}
+
+.btn-outline-primary {
+
+  width: 100px;
+  border: none;
+  background-color: rgb(245, 234, 230);
+  padding: 5px;
+  color: rgb(17, 9, 9);
+  border-radius: 5px;
+  cursor: pointer;
+  align-self: flex-end;
+  margin-top: 20px;
+  align-items: center;
+}
+
+.btn-outline-primary-photo {
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.btn-outline-primary-photo:hover {
+  color: #100e0e;
+
+}
+.form-control{
+  border: none;
+  border-radius: 2px;
+}

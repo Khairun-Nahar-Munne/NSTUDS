@@ -1,0 +1,96 @@
+.upcoming {
+    padding: 100px 100px;
+
+    margin: 20px 200px;
+    box-shadow: 100px;
+
+    border-radius: 20px;
+    height: 300px;
+    background-color: rgba(211, 46, 13, 0.214);
+
+    color: black;
+}
+
+.upcoming h3 {
+    padding: 100px 0px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+.past {
+    padding: 100px 100px;
+
+    margin: 20px 200px;
+    box-shadow: 100px;
+
+
+    border-radius: 20px;
+
+    background-color: rgba(211, 46, 13, 0.325);
+
+    color: black;
+}
+
+.event1 {
+    padding: 50px 50px;
+    margin: 50px 50px;
+    box-shadow: 100px;
+    border-radius: 20px;
+    width: 75%;
+    background-color: rgba(237, 237, 230, 0.589);
+    display: flex;
+
+}
+
+.event1 img {
+    padding-top: 30px;
+    height: 100%;
+    width: 100%;
+}
+
+.event2 {
+    padding: 50px 50px;
+    margin: 50px 50px;
+    box-shadow: 100px;
+    border-radius: 20px;
+    width: 75%;
+    background-color: rgba(237, 237, 230, 0.589);
+    display: flex;
+}
+
+
+
+
+.image {
+    height: 60%;
+    width: 60%;
+    padding-right: 30px;
+}
+
+.event2 img {
+    padding-top: 30px;
+    height: 100%;
+    width: 100%;
+}
+
+.describe {
+    padding-right: 30px;
+    height: 40%;
+    width: 40%;
+}
+
+.describe a {
+    background-color: rgb(71, 8, 8);
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+
+}
+
+.describe a:hover{
+    background-color: rgb(244, 237, 237);
+    color:  rgb(71, 8, 8);
+}
